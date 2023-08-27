@@ -1,0 +1,51 @@
+export const initialList = [
+  {
+    id: 1,
+    item: "Learn React",
+    description: "Learn React and its ecosystem",
+    tag: "Work",
+    complete: false,
+  },
+  {
+    id: 2,
+    item: "Take out the trash",
+    description: "Take out the trash and put in the bin",
+    tag: "Home",
+    complete: false,
+  },
+  {
+    id: 3,
+    item: "Mow the lawn",
+    description: "Mow the lawn and water the plants",
+    tag: "Home",
+    complete: false,
+  },
+  {
+    id: 4,
+    item: "Write hello world",
+    description: "Write hello world in React",
+    tag: "Work",
+    complete: false,
+  },
+  {
+    id: 5,
+    item: "Write documentation",
+    description: "Write documentation for the project",
+    tag: "Work",
+    complete: false,
+  },
+  {
+    id: 6,
+    item: "Walk the dog",
+    description: "Walk the dog and feed the dog",
+    tag: "Home",
+    complete: false,
+  },
+  {
+    id: 7,
+    item: "Make a sandwich",
+    description: "Peanut butter and jelly sandwich",
+    tag: "Home",
+    complete: false,
+  },
+];
